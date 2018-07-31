@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>anddemo.AND-Demo/AND-Demo.qml</file>
-        <file>anddemo.AND-Demo/description.ini</file>
-    </qresource>
-</RCC>
-
