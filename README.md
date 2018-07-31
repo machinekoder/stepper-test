@@ -1,5 +1,5 @@
-# HAL AND Demo
-This is a very simple HAL AND demo. To start the demo download the MachinekitClient from the:
+# Stepper Test
+This is a very simple stepper test setup. To start the demo download the MachinekitClient from the:
 [QtQuickVcp download section](https://github.com/qtquickvcp/QtQuickVcp#download)
 
 ## Starting the demo
